@@ -1,0 +1,15 @@
+# //maximum password age
+
+# // minimum password length
+
+# //complexity requirements
+# /*
+
+# Passwords must have at least six characters.
+# Passwords can’t contain the user name or parts of 
+# the user’s full name, such as his first name.
+# Passwords must use at least three of the four
+# available character types: lowercase letters, 
+# uppercase letters, numbers, and symbols.
+
+# */
